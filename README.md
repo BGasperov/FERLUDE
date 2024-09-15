@@ -6,8 +6,10 @@ SMASH is an innovative, intersectoral, career-development training program co-fu
 
 This repo contains code for the research papers (and work in general) emanating from the FERLUDE project.
 
-![Project FERLUDE Logo](images/ferlude_logo.jpg)
-![Project SMASH Logo](images/smash_logo.jpg)
+<p float="left">
+  <img src="images/ferlude_logo.jpg" width="300" />
+  <img src="images/smash_logo.jpg" width="300" /> 
+</p>
 
 ## Project Details
 
