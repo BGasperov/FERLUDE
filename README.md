@@ -4,6 +4,8 @@
 
 SMASH is an innovative, intersectoral, career-development training program co-funded by the Marie Skłodowska-Curie COFUND Actions (MSCA COFUND) for the 2023-2028 period.
 
+This repo contains code for the research papers (and work in general) emanating from the FERLUDE projet.
+
 ## Project Details
 
 - **Full title**: Few shot evolutionary reinforcement learning in uncertain and dynamic environments
