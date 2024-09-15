@@ -18,7 +18,7 @@ This repo contains code for the research papers (and work in general) emanating 
 - **Investigator**: Bruno Gašperov, PhD
 - **Host institution**: University of Ljubljana, Faculty of Computer and Information Science, Laboratory for Adaptive Systems and Parallel Processing
 - **Research area**: Data Science - Machine Learning for Scientific Applications (1)
-- **SMASH supervisor**: Prof. Branko Šter
+- **SMASH supervisor**: Prof. Branko Šter, PhD
 - **Duration of fellowship**: 19. 6. 2024 – 18. 6. 2026
 
 ## Extended Summary
