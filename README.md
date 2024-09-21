@@ -2,7 +2,7 @@
 
 **Few shot Evolutionary Reinforcement Learning in Uncertain and Dynamic Environments** (FERLUDE) is a project funded within the [SMASH](https://smash.ung.si) postdoctoral program.
 
-SMASH is an innovative, intersectoral, career-development training program co-funded by the Marie Skłodowska-Curie COFUND Actions (MSCA COFUND) for the 2023-2028 period.
+SMASH is an innovative, intersectoral, career-development training program co-funded by the Marie Skłodowska-Curie COFUND Actions (MSCA COFUND) for the 2023-2028 period. It involves top 5 Slovenian academic institutions, 25 international and non-academic partners, and is coordinated by the University of Gorica.
 
 This repo contains code for the research papers (and work in general) emanating from the FERLUDE project.
 
