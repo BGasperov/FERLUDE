@@ -15,13 +15,13 @@ This repo contains code for the research papers (and work in general) emanating 
 
 - **Full title**: Few shot evolutionary reinforcement learning in uncertain and dynamic environments
 - **Acronym**: FERLUDE
-- **Investigator**: Bruno Gašperov, PhD
+- **Principal investigator (PI)**: Bruno Gašperov, PhD
 - **Host institution**: University of Ljubljana, Faculty of Computer and Information Science, Laboratory for Adaptive Systems and Parallel Processing
 - **Research area**: Data Science - Machine Learning for Scientific Applications (1)
-- **SMASH supervisor**: Prof. Branko Šter, PhD
+- **Project supervisor**: Prof. Branko Šter, PhD
 - **Duration of fellowship**: 19. 6. 2024 – 18. 6. 2026
 
-## Extended Summary
+## Summary
 
 Over the last several years, reinforcement learning (RL) has achieved a number of exciting breakthroughs in a wide variety of sequential decision-making tasks under uncertainty, especially in combination with deep learning (deep RL). However, the vast majority of such successes have been confined to highly controlled and static environments characterized by several favorable properties. These properties include the stationarity and determinism of the underlying state transition matrix and the reward function. Yet RL agents trained under such circumstances often fail to generalize to real-world environments. 
 
