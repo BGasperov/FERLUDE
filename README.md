@@ -28,3 +28,7 @@ Over the last several years, reinforcement learning (RL) has achieved a number o
 To a large extent, this problem stems from the fact that real-world problems often involve dynamic (non-stationary) and uncertain (noisy) environments, undergoing distributional shifts and exhibiting relatively low signal-to-noise ratios. RL agents deployed for real-world tasks must be capable of quickly (i.e., from only a few samples or interactions with the environment) adapting their behavior to environmental changes in order to minimize regret.
 
 The ability to update existing knowledge and adapt to changes in the environment is argued to be a pivotal property of intelligent systems. Consequently, there is a need for novel (deep) RL approaches for training and deploying RL agents under such conditions in a few-shot manner.
+
+## Publications
+
+Publication 1 - abstract/title sent to a conference
