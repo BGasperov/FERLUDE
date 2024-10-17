@@ -31,4 +31,4 @@ The ability to update existing knowledge and adapt to changes in the environment
 
 ## Publications
 
-Publication 1 - abstract/title sent to a conference
+Publication 1 - full paper sent to a conference (anonymized at the moment)
