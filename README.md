@@ -32,3 +32,4 @@ The ability to update existing knowledge and adapt to changes in the environment
 ## Publications
 
 Publication 1 - full paper sent to a conference (anonymized at the moment)
+Publication 2 - work in progress
