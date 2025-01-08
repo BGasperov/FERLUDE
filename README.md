@@ -31,7 +31,7 @@ The ability to update existing knowledge and adapt to changes in the environment
 
 ## Publications
 
-- Publication 1 - full paper sent to a conference
+- Publication 1 - "Exploring higher-order mutation rates in a game-theoretical setting" accepted (as a full paper) to the 2025 IEEE Symposia on CI in Artificial Life and Cooperative Intelligent Systems (IEEE ALIFE-CIS) (part of the 2025 IEEE Symposium Series on Computational Intelligence, Trondheim, Norway. 17th-20th Mar 2025)
 - Publication 2 - full paper sent to a conference
 - Publication 3 - drafted
 - Publication 4 - work in progress
