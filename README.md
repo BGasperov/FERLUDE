@@ -31,7 +31,7 @@ The ability to update existing knowledge and adapt to changes in the environment
 
 ## Publications
 
-Publication 1 - full paper sent to a conference - accepted
-Publication 2 - full paper sent to a conference
-Publication 3 - drafted
-Publication 4 - work in progress
+- Publication 1 - full paper sent to a conference
+- Publication 2 - full paper sent to a conference
+- Publication 3 - drafted
+- Publication 4 - work in progress
