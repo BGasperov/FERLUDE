@@ -37,6 +37,6 @@ The ability to update existing knowledge and adapt to changes in the environment
   <img src="images/metalearning1paper.jpg" width="300" />
 </p>
 
-- Publication 2 - full paper sent to a conference
+- Publication 2 - "Climbing the tower of meta-mutations - the role of higher-order mutations", accepted for the 2025 International Conference on the Applications of Evolutionary Computation (Part of EvoStar 2025)
 - Publication 3 - drafted
 - Publication 4 - work in progress
